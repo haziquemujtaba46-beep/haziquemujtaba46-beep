@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
+<defs>
+ <linearGradient id="qbg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050505"/><stop offset=".55" stop-color="#160000"/><stop offset="1" stop-color="#050505"/></linearGradient>
+ <linearGradient id="qr" x1="0" x2="1"><stop stop-color="#ff3030"/><stop offset="1" stop-color="#8b0000"/></linearGradient>
+</defs>
+<rect width="1000" height="260" rx="18" fill="url(#qbg)" stroke="#e51b23" stroke-width="2"/>
+<text x="55" y="78" font-family="Georgia,serif" font-size="72" fill="#e51b23">“</text>
+<text x="500" y="92" text-anchor="middle" font-family="Georgia,serif" font-size="29" font-style="italic" fill="#fff">Learn Continuously, Work Precisely,</text>
+<text x="500" y="137" text-anchor="middle" font-family="Georgia,serif" font-size="34" font-style="italic" font-weight="700" fill="#ff2b2b">Fly Safely.</text>
+<rect x="360" y="164" width="280" height="3" rx="2" fill="url(#qr)"/>
+<text x="500" y="205" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="4" fill="#aaa">HAZIQUE MUJTABA • B2 AVIONICS</text>
+<text x="500" y="230" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="2" fill="#777">AIRCRAFT MAINTENANCE • AVIATION TECHNOLOGY</text>
+</svg>

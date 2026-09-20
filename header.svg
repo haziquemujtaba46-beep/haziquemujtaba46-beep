@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#050505"/><stop offset=".55" stop-color="#180000"/><stop offset="1" stop-color="#050505"/></linearGradient>
+  <linearGradient id="r" x1="0" x2="1"><stop stop-color="#ff3030"/><stop offset="1" stop-color="#8b0000"/></linearGradient>
+</defs>
+<rect width="1200" height="320" fill="url(#bg)"/>
+<path d="M0 35 H1200" stroke="url(#r)" stroke-width="4"/>
+<path d="M0 285 H1200" stroke="#3b0000" stroke-width="2"/>
+<g fill="none" stroke="#e51b23" opacity=".55">
+ <path d="M55 210 C220 80 350 80 510 210" stroke-width="2"/>
+ <path d="M690 210 C850 80 980 80 1145 210" stroke-width="2"/>
+ <circle cx="600" cy="155" r="82" stroke-width="1"/>
+</g>
+<g fill="#fff" font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+ <text x="600" y="82" font-size="18" letter-spacing="8">WELCOME TO MY GITHUB</text>
+ <text x="600" y="155" font-size="62" font-weight="800">HAZIQUE <tspan fill="#f3262f">MUJTABA</tspan></text>
+ <text x="600" y="195" font-size="20" letter-spacing="5">B2 AVIONICS ENGINEERING STUDENT</text>
+ <text x="600" y="232" font-size="13" letter-spacing="3" fill="#bbb">AIRCRAFT MAINTENANCE • AVIONICS • AVIATION TECHNOLOGY</text>
+ <text x="600" y="265" font-size="12" letter-spacing="3" fill="#e51b23">A320 • A320neo • PW1100G • CAR 145 • AMM</text>
+</g>
+<g fill="#e51b23">
+ <circle cx="50" cy="160" r="5"/><circle cx="1150" cy="160" r="5"/>
+</g>
+</svg>
