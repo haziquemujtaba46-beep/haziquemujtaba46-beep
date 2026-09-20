@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/haziquemujtaba46-beep">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi+there!+I'm+Hazique+Mujtaba+%F0%9F%91%8B;B2+Avionics+Engineering+%F0%9F%8E%93;Junior+Aircraft+Maintenance+Technician+%F0%9F%9B%A0%EF%B8%8F;360%2B+Hours+Airbus+A320+Family+Experience+%E2%9C%88%EF%B8%8F;A320+%7C+A320neo+%7C+PW1100G-JM;Aircraft+Maintenance+%7C+Avionics+%7C+Aviation+%F0%9F%9A%80" width="100%" style="max-width: 620px;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi+there!+I'm+Hazique+Mujtaba+%F0%9F%91%8B;B2+Avionics+Engineering+Student+%F0%9F%8E%93;Junior+Aircraft+Maintenance+Technician+%F0%9F%9B%A0%EF%B8%8F;360%2B+Hours+Airbus+A320+Family+Experience+%E2%9C%88%EF%B8%8F;A320+%7C+A320neo+%7C+PW1100G-JM;Aircraft+Maintenance+%7C+Avionics+%7C+Aviation+%F0%9F%9A%80" width="100%" style="max-width: 620px;" alt="Typing SVG" />
   </a>
 </p>
 
